@@ -1,0 +1,23 @@
+.Jumbotron {
+  padding-top: 6rem;
+  background-color: #292929;
+}
+.display-4 {
+  color: #ffa31a;
+}
+.lead {
+  color: #ffffff;
+}
+#Certificate {
+  background-color: #292929;
+}
+#txtcerti {
+  color: #ffa31a;
+}
+.Footer {
+  background-color: #292929;
+}
+
+section {
+  padding-top: 5rem;
+}
